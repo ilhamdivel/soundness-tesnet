@@ -114,7 +114,7 @@ ZeroTrust Identity uses a three-layer architecture optimized for enterprise adop
 
 
 **Checklist before submitting:**
-- [ ] All fields completed
-- [ ] GitHub username matches PR author  
-- [ ] SL integration explained
-- [ ] Timeline is realistic
+- [✓] All fields completed
+- [✓] GitHub username matches PR author  
+- [✓] SL integration explained
+- [✓] Timeline is realistic
