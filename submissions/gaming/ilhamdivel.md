@@ -3,7 +3,7 @@
 ## Verification
 ```yaml
 github_username: "ilhamdivel"
-discord_id: "aegon21"
+discord_id: "361092048981590017"
 timestamp: "2025-08-31"
 ```
 
